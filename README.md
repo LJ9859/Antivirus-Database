@@ -6,3 +6,5 @@ These are Antiviruses that are SAFE to run on your computer unlike my rogues fro
 Most of these only run on Windows 7/8 or higher.
 
 Unlike our naughty Malware-Database, these antiviruses dont have passwords, they are just archives! So no passwords...
+
+IMPORTANT: If you are downloading Kaspersky and ARE a resident of California, select the "California" option. If you are NOT a resident of the state of California, select the "Non-California" option.
