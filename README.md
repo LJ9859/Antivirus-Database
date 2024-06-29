@@ -7,4 +7,6 @@ Most of these only run on Windows 7/8 or higher.
 
 Unlike our naughty Malware-Database, these antiviruses dont have passwords, they are just archives! So no passwords...
 
-IMPORTANT: If you are downloading Kaspersky and ARE a resident of California, select the "California" option. If you are NOT a resident of the state of California, select the "Non-California" option.
+VERY IMPORTANT (POST JUNE 2024): If you are in the United States of America, 46th President Joe Biden has banned Kaspersky products from selling in the USA. If you live in the US, do not download Kaspersky. Kaspersky is only here for educational reasons and for other countries. Thank you.
+
+IMPORTANT (Before June 2024): If you are downloading Kaspersky and ARE a resident of California, select the "California" option. If you are NOT a resident of the state of California, select the "Non-California" option.
